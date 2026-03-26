@@ -28,3 +28,23 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBsd211N3RuNzMyYjJ5ZjRscWZqbWVwYXpsbXZrN3l5N3oycWQ1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUdJqsvdTNsim8CuK9/giphy.gif"  />
 
 ###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
