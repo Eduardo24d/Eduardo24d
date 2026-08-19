@@ -1,4 +1,4 @@
-<h2 align="left">👌Olá!! Sou Desenvolvedor e Artista de Jogos🔥🔥</h2>
+<h2 align="left">👌Olá!! Sou O Edu sou Desenvolvedor e Artista.🔥🔥</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">😎Sobre mim:<br>Sou estudante dev, e artista desenvolvendo no futuro um jogo.</p>
+<p align="left">😎Sobre mim:<br>Sou estudante dev e artista.</p>
 
 ###
 
